@@ -32,7 +32,7 @@ function Home(props) {
           ),
           headerRight: () => (
             <ScreenHeaderBtn
-              iconUrl={icons.menu}
+              iconUrl={images.profile}
               dimention='100%'></ScreenHeaderBtn>
           ),
           headerTitle: '',
